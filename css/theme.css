@@ -4232,6 +4232,10 @@ pre {
   background: #000000;
 }
 /*! -- Stack Links -- */
+.titlewhite {
+  color: #f5f5f5;
+}
+
 a {
   color: #4a90e2;
   font-weight: 700;
